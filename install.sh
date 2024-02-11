@@ -10,10 +10,10 @@
 echo
 echo "Atualizando bot, aguarde..."
 echo
-wget https://github.com/penguinehis/WaBot-VendasSSH/raw/main/mult/index.js > /dev/null 2>&1
-wget https://github.com/penguinehis/WaBot-VendasSSH/raw/main/mult/veri.js > /dev/null 2>&1
-wget https://github.com/penguinehis/WaBot-VendasSSH/raw/main/mult/gerar.js > /dev/null 2>&1
-wget https://github.com/penguinehis/WaBot-VendasSSH/raw/main/mult/qrcode > /dev/null 2>&1
+wget https://github.com/penguinehis/Stalkermtx/VendasSSH/raw/main/mult/index.js > /dev/null 2>&1
+wget https://github.com/penguinehis/Stalkermtx/VendasSSH/main/mult/veri.js > /dev/null 2>&1
+wget https://github.com/penguinehis/Stalkermtx/VendasSSH/raw/main/mult/gerar.js > /dev/null 2>&1
+wget https://github.com/penguinehis/Stalkermtx/VendasSSH/raw/main/mult/qrcode > /dev/null 2>&1
 chmod +x qrcode
 mv qrcode /bin
 mv index.js /etc/megahbot
